@@ -11,7 +11,7 @@ Se desarrollaron 2 modelos de machine learning para detectar malware en base a l
 | Precision | 0.9865 |
 | Recall    | 0.9481 |
 
-[conf1](imgs/conf_randomf.png)
+![conf1](imgs/conf_randomf.png)
 
 
 Vemos que el modelo fue bastante eficaz 
@@ -32,7 +32,7 @@ Este modelo dio estas métricas de rendimiento:
 | Precision | 0.9244 |
 | Recall    | 0.9532 |
 
-[conf1](imgs/conf_nn.png)
+![conf1](imgs/conf_nn.png)
 
 
 ## Comparación de modelos
