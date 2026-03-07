@@ -14,7 +14,8 @@ Se desarrollaron 2 modelos de machine learning para detectar malware en base a l
 ![conf1](imgs/conf_randomf.png)
 
 
-Vemos que el modelo fue bastante eficaz 
+Vemos que el modelo fue bastante eficaz.
+
 Luego, se realizó otro [modelo](./gemini.ipynb) el cuál juntó toda la secuencia de llamadas de cada archivo en un mismo string y con la API de Gemini de Google se generarón embeddings de más de 3,000 features para cada una. Con esto, se entrenó una red neuronal con estos hiperparámetros:
 
 
